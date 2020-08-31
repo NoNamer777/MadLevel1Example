@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MadLevel1Example</string>
+    <string name="question">What kind of animal is this?</string>
+    <string name="giraffe_img_description">Giraffe</string>
+    <string name="et_answer_hint">Species</string>
+    <string name="btn_confirm_txt">Confirm</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect, the correct answer is: \"Giraffe\"!</string>
 </resources>
